@@ -61,12 +61,12 @@ def main():
         'URL1' : 'https://www.amazon.co.uk/gp/css/gc/balance?ie=UTF8&ref_=ya_view_gc&',
         'URL2' : 'https://www.amazon.de/gp/css/gc/balance?ie=UTF8&ref_=ya_view_gc',
         'URL3' : 'https://www.amazon.co.jp/gp/css/gc/balance?ie=UTF8&ref_=ya_view_gc',
-        'USERNAME1' : 'ktqa-sea+prime.uk@amazon.com',
-        'PASSWORD1' : 'GoHawks!',
-        'USERNAME2' : 'ktqa-sea+prime.de@amazon.com',
-        'PASSWORD2' : 'kinloc!@#',
-        'USERNAME3' : 'ktqa-sea+prime.jp@amazon.com',
-        'PASSWORD3' : 'GoHawks!',
+        'USERNAME1' : '*****', # User account
+        'PASSWORD1' : '*****', # Account Password
+        'USERNAME2' : '*****',
+        'PASSWORD2' : '*****',
+        'USERNAME3' : '*****',
+        'PASSWORD3' : '*****',
         'item1' : '/html/body/div[5]/table/tbody/tr/td[2]/div[1]/div[1]/div/div/table/tbody/tr/td[1]/h3/span',
         'item2' : '/html/body/div[5]/table/tbody/tr/td[2]/div[1]/div[1]/div/div/table/tbody/tr/td[1]/h3/span',
         'item3' : '/html/body/div[5]/table/tbody/tr/td[2]/div/div[1]/div/div/table/tbody/tr/td[1]/h3/span',
